@@ -4,5 +4,7 @@ Hello, Dear!
 Good bye, Baby!
 Ha-ha!
 Ha-Ha!
-
+ 
 Good Bye!
+strochka 1
+strochka 2
